@@ -1,0 +1,15 @@
+.ms-1 {
+  margin-left: 20px;
+}
+footer {
+  background-color: #e4e4e4;
+  color: black;
+}
+hr.solid {
+  border-top: 3px solid #c00000;
+  border-color: red;
+}
+footer.bottomrow {
+  background-color: #c00000;
+  color: white;
+}
